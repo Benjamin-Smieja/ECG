@@ -1,5 +1,5 @@
 %% This script analyzes the ecg graph from 3 patients identifying potential problems.
-% MAT188 MATLAB final project - Benjamin Smieja 1006016801
+% MATLAB final project - Benjamin Smieja
 % December 3, 2019
 
 clear; clc; close all;
